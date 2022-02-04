@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	div();
 }
 
-// Author - Shipra goel
+// Author - Shipra goel and keshav
 private static void div() {
 	System.out.println("Divison");
 	
