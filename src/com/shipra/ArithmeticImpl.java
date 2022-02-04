@@ -4,6 +4,13 @@ public class ArithmeticImpl {
 public static void main(String[] args) {
 	add();
 	sub();
+	div();
+}
+
+// Author - Shipra goel and keshav
+private static void div() {
+	System.out.println("Divison");
+	
 }
 
 private static void sub() {
@@ -15,4 +22,6 @@ private static void add() {
 	System.out.println("Substraction");
 	
 }
+
+
 }
